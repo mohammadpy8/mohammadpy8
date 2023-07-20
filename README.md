@@ -1,10 +1,10 @@
 ### Hi there Iam Mohammad👋
 
-### About Me :
+## About Me :
 🫡Front-End Web Developer🫡
 
 
-### my stack
+## My expertise:
 
 <p>
 
