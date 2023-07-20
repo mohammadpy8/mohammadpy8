@@ -1,11 +1,5 @@
 ## Hi there Iam Mohammad👋
 
-<h1 align="center">
-  <br>
-  <img src="./icons8-front-end-64.png" alt="mohammad" width="200"/>
-  <br>
-  Mohammad Seyfollahi
-</h1>
 
 ## About Me :
 🫡Front-End Web Developer🫡
