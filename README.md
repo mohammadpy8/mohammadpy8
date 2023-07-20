@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://icons8.com/icon/Ac7AQHgh9jd0/front-end" alt="mohammad" width="200"/>
+  <img src="./icons8-front-end-64.png" alt="mohammad" width="200"/>
   <br>
   Mohammad Seyfollahi
 </h1>
