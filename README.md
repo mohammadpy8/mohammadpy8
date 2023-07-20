@@ -4,7 +4,7 @@
 🫡Front-End Web Developer🫡
 
 
-## My expertise:
+## My Stack:
 
 <p>
 
