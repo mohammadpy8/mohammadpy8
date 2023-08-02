@@ -23,7 +23,7 @@
 <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img alt="MUI" src="https://img.shields.io/badge/Sass-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+<img alt="MUI" src="https://img.shields.io/badge/Sass-%230081CB.svg?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 
 </p>
