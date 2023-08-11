@@ -26,6 +26,7 @@
 <img alt="MUI" src="https://img.shields.io/badge/Sass-%FF00BB.svg?style=for-the-badge&logo=sass&logoColor=pink" />
 <img alt="MUI" src="https://img.shields.io/badge/RTK-%230081CB.svg?style=for-the-badge&logo=redux-toolkit&logoColor=orange" />
 <img alt="router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="postman" src="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" />
 
 </p>
 
