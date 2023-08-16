@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Mohammad </h1>
 
 
-<h3 align="center"><img src="https://www.vectorlogo.zone/logos/frontapp/frontapp-icon.svg" alt="front" width="30" height="30"/><h3 style="margin: 0 10px">Front End Developer</h3><img src="https://www.vectorlogo.zone/logos/frontapp/frontapp-icon.svg" alt="front" width="30" height="30"/></h3> 
+<h3 align="center"><img src="https://www.vectorlogo.zone/logos/frontapp/frontapp-icon.svg" alt="front" width="30" height="30"/><h3>Front End Developer</h3><img src="https://www.vectorlogo.zone/logos/frontapp/frontapp-icon.svg" alt="front" width="30" height="30"/></h3> 
 
 
 <h3 align="center">Love learning and web development</h3> 
