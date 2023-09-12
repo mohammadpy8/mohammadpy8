@@ -22,9 +22,11 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="45" title="typescript">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" title="react">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="45" title="redux">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="45" title="GraphQl">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="45" title="materialUi">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="45" title="nextjs">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="45" title="postman">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45"  title="Vite">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" title="git">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" title="github">
 </p>
