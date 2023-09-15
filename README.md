@@ -35,3 +35,9 @@
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadpy8&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="mohammad" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadpy8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="mohammad" align = "center"/></p>
+
+<h3 align="center">GitHub Trophies:</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadpy8&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
