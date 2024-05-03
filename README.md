@@ -25,6 +25,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="45" title="GraphQl">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="45" title="materialUi">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="45" title="nextjs">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="45" title="vuejs">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="45" title="nuxtjs">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" width="45" title="cypress">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="45" title="cypress">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="45" title="postman">
